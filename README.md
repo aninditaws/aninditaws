@@ -60,7 +60,6 @@ I am a third-year Information Systems & Technology student at ITB with a passion
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aninditaws&theme=radical&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aninditaws&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 

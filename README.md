@@ -19,9 +19,9 @@ I am a passionate data enthusiast with a strong foundation in <strong>Business I
 ---
 
 ### 🚀 What I'm Up To
-- 🎓 **Final Thesis:** Modernizing operational systems for SMEs to increase business resilience (Case Study: *Sumber Langgan Motorcycle Parts*).
-- 💼 **Professional:** Recently completed a Business Intelligence Analyst internship at **Halodoc**, where I focused on data-driven decision-making.
-- 🏫 **Community:** Serving in the General Secretariat of **HMIF ITB**, managing organizational efficiency.
+- 🎓 **Final Thesis:** Modernizing operational systems for SMEs to increase business resilience (Case Study: *Retail Store*).
+- 💼 **Professional:** Recently completed a Business Intelligence Analyst internship, where I focused on data-driven decision-making.
+- 🏫 **Community:** Serving as a General Secretary at **HMIF ITB**, managing organizational efficiency.
 - 🧪 **Teaching:** Guiding students through SQL, ERD transformations, and relational modeling as a Lab Assistant.
 
 ---

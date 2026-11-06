@@ -1,9 +1,8 @@
-[Personal website](https://aninditaws.github.io/) · [LinkedIn](https://www.linkedin.com/in/aninditaws/) · [Email](mailto:santosoanindita1@gmail.com)
-
 ![Anin — product, data, and code](assets/header.svg)
 
 <p align="center">
-  <strong>Anindita Widya Santoso</strong> · Junior Product Manager at <strong>Xendit</strong> · Information Systems and Technology graduate, <strong>ITB</strong>.
+  <strong>Anindita Widya Santoso</strong> · Junior Product Manager at <strong>Xendit</strong> ·<br>
+  Information Systems and Technology graduate, <strong>ITB</strong>.
 </p>
 
 ### Selected work

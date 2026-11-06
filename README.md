@@ -2,7 +2,9 @@
 
 ![Anin — product, data, and code](assets/header.svg)
 
-**Anindita Widya Santoso** · Junior Product Manager at **Xendit** · Information Systems and Technology graduate, **ITB**.
+<p align="center">
+  <strong>Anindita Widya Santoso</strong> · Junior Product Manager at <strong>Xendit</strong> · Information Systems and Technology graduate, <strong>ITB</strong>.
+</p>
 
 ### Selected work
 
@@ -19,5 +21,9 @@
 
 ### Say hi
 
-| [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/aninditaws/) | [![Gmail](assets/badges/gmail.svg)](mailto:santosoanindita1@gmail.com) | [![GitHub](assets/badges/github.svg)](https://github.com/aninditaws) | [![Website](assets/badges/website.svg)](https://aninditaws.github.io/) |
-| :---: | :---: | :---: | :---: |
+<p align="center">
+  <a href="https://www.linkedin.com/in/aninditaws/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"></a>
+  <a href="mailto:santosoanindita1@gmail.com"><img src="assets/badges/gmail.svg" alt="Gmail"></a>
+  <a href="https://github.com/aninditaws"><img src="assets/badges/github.svg" alt="GitHub"></a>
+  <a href="https://aninditaws.github.io/"><img src="assets/badges/website.svg" alt="Website"></a>
+</p>
